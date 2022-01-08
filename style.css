@@ -1,0 +1,102 @@
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 35px;
+}
+#text-center{
+    text-align: center;
+}
+p{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.border-font-added{
+    border-left: 7px solid rgb(255, 110, 110);
+    border-radius: 2px;
+    font-family: 'Playfair Display', serif;
+}
+.color-added{
+    color: sandybrown;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(255, 110, 110);
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-top: 5%;
+}
+.padding-added{
+    padding-right: 10%;
+}
+img{
+    width: 80%;
+}
+.img-width{
+    width: 50%;
+}
+section{
+    margin-left: 130px;
+    margin-right: 130px;
+}
+#mission-box{
+    background-color: rgb(215, 247, 252);
+    margin-top: 5px;
+    border-radius: 20px;
+    padding: 20px 30px;
+}
+#Dream-box{
+    background-color: mistyrose;
+    margin: 5px 25px; 
+    border-radius: 20px;
+    padding: 20px 30px;
+}
+#goals-box{
+    background-color: rgb(252, 229, 201);
+    margin-top: 5px;
+    border-radius: 20px;
+    padding: 20px 30px;
+}
+#background-image-added{
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: right 95%;
+}
+#background{
+    background-color: rgb(5, 4, 4);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    margin-top: 140px;
+}
+#white{
+    color: white;
+}
+#red{
+    color: tomato;
+}
+footer{
+    color: whitesmoke;
+}
+#background-style{
+    background-image: url(mission-2022-main/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 100px;
+}
+#programming{
+    color: sandybrown;
+}
+.color{
+    color: coral;
+}
