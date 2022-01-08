@@ -89,10 +89,11 @@ footer{
     color: whitesmoke;
 }
 #background-style{
-    background-image: url(mission-2022-main/images/dream-bg.png);
+    background-image: url(mission-2022-main/images/shapes/shape-4.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: left;
     padding-top: 100px;
+    background-size: 50%;
 }
 #programming{
     color: sandybrown;
